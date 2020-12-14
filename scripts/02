@@ -1,0 +1,7 @@
+# !/bin/bash
+
+# https://www.godaddy.com/help/remove-a-linux-user-19158
+
+#       userdel - delete user account and related files
+
+userdel -r $1
